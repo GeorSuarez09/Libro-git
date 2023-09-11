@@ -2,4 +2,8 @@ Capitulo 1: Inttroduccion a git
 Capitulo 2: Flujo de trabajo basico 
 Capitulo 3: Gestion de ramas 
 Capitulo 4: Repositorios remoto
+<<<<<<< HEAD
 Cpitulo 5: Boooooookaaaaaaa
+=======
+Capitulo 5: Fernet con coca
+>>>>>>> 1fcabd95af6710e6cddfc72f894bf719d57c0c91
